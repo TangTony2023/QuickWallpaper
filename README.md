@@ -14,3 +14,7 @@
 - Dark Mode
 - Multi-task downloading
 - System Tray Application
+
+**Buy**
+Quick Wallpaper has 30 days trial, if you like it , you can buy it.
+https://buy.stripe.com/14A14g6CC9rfgrhcsNgYU03
